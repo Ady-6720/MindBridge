@@ -1,7 +1,4 @@
 
----
-
-```markdown
 # MindBridge: Cognitive Support Application
 
 ![MindBridge Logo](https://via.placeholder.com/150) <!-- Add your logo here -->
